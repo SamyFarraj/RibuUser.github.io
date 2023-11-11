@@ -1,0 +1,7 @@
+LiquidPullToRefresh(
+              showChildOpacityTransition: false,
+              animSpeedFactor: 2,
+              color: theme.secondaryHeaderColor,
+              onRefresh: refreshDate,
+              child:
+            );
