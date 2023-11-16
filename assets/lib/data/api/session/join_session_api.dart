@@ -14,8 +14,8 @@ class JoinSessionApi{
   Future<Object>showSessionInfo(String idRestaurants,String tableCode)async
   {
 
-    print("the route is ${tableCode}");
-    print("the route is ${idRestaurants}");
+
+
     var response=await http.get(Uri.parse('${baseUrl}/api/user/restaurants/${idRestaurants}/sessions/show/${tableCode}'),
       headers: <String,String>
       {
@@ -25,11 +25,11 @@ class JoinSessionApi{
       },
 
     );
-    print("the showSessionInfo body ${response.body}");
-    print("the showSessionInfo  statusCode ${response.statusCode}");
+
+
     if (response.statusCode==200)
     {
-      print("response.statusCode==200");
+
       return response.body;
     }
 

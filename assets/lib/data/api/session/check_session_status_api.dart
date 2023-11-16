@@ -13,8 +13,8 @@ class CheckSessionStatusApi{
 
   Future<Object>checkSessionStatusApi(String idRestaurants,String tableCode)async
   {
-    print("the route is ${tableCode}");
-    print("the route is ${idRestaurants}");
+
+
     var response=await http.get(Uri.parse('${baseUrl}/api/user/restaurants/${idRestaurants}/sessions/checkStatus/${tableCode}'),
       headers: <String,String>
       {
@@ -23,11 +23,11 @@ class CheckSessionStatusApi{
       },
 
     );
-    print("the responsesssss ${response.body}");
-    print("the response ${response.statusCode}");
+
+
     if (response.statusCode==200)
     {
-      print("gl;dfm;g");
+
       return response.body;
     }
     else if (response.statusCode==422||response.statusCode==404||response.statusCode==500)
