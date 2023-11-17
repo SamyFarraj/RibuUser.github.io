@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="80" viewBox="0 0 375 80">
+    <g id="Navbar" transform="translate(0 -732)">
+        <rect id="Rectangle_1" width="375" height="80" transform="translate(0 732)"/>
+        <g id="Home" transform="translate(-5 1)" opacity="0.5">
+            <path id="Path_4" d="M23.4,9.2h0l-7.2-6.3a3.6,3.6,0,0,0-4.8,0L4.2,9.2A3.594,3.594,0,0,0,3,11.9V22.38a3.6,3.6,0,0,0,3.6,3.6H21a3.6,3.6,0,0,0,3.6-3.6V11.893a3.594,3.594,0,0,0-1.2-2.7ZM16.2,23.579H11.4V17.586a1.2,1.2,0,0,1,1.2-1.2H15a1.2,1.2,0,0,1,1.2,1.2Zm6-1.2a1.2,1.2,0,0,1-1.2,1.2H18.6V17.586a3.6,3.6,0,0,0-3.6-3.6H12.6a3.6,3.6,0,0,0-3.6,3.6v5.993H6.6a1.2,1.2,0,0,1-1.2-1.2V11.893a1.2,1.2,0,0,1,.408-.9l7.2-6.292a1.2,1.2,0,0,1,1.584,0l7.2,6.292a1.2,1.2,0,0,1,.408.9Z" transform="translate(50 758.024)" fill="#fff"/>
+        </g>
+        <g id="Profile" transform="translate(302.5 760.5)" opacity="0.5">
+            <path id="Path_66" d="M12.5.5a12,12,0,1,0,12,12A12.013,12.013,0,0,0,12.5.5Zm0,21.677a9.632,9.632,0,0,1-6.6-2.62,5.677,5.677,0,0,1,1.259-1.568,8.117,8.117,0,0,1,5.342-1.9,7.779,7.779,0,0,1,6,2.586,5.093,5.093,0,0,1,.593.886A9.631,9.631,0,0,1,12.5,22.177Zm8.164-4.5a9.884,9.884,0,0,0-8.164-3.9,9.838,9.838,0,0,0-8.158,3.915A9.673,9.673,0,1,1,22.177,12.5,9.609,9.609,0,0,1,20.664,17.674Z" fill="#fff"/>
+            <path id="Path_67" d="M14.24,6.025A3.215,3.215,0,1,0,17.455,9.24,3.218,3.218,0,0,0,14.24,6.025Zm0,4.491A1.276,1.276,0,1,1,15.516,9.24,1.277,1.277,0,0,1,14.24,10.516Z" transform="translate(-1.74 -0.914)" fill="#fff"/>
+        </g>
+        <path id="Path_68" d="M53.535,41.81V39.959a4.63,4.63,0,1,1,9.254,0V41.81h3.2a.579.579,0,0,1,.577.539l1.1,16.195a.581.581,0,0,1-.539.616H49.237a.577.577,0,0,1-.577-.577v-.039l1.1-16.195a.579.579,0,0,1,.577-.54Zm1.736,0h5.784V39.959a2.9,2.9,0,1,0-5.784,0Zm-4.8,15.617H65.849l-.94-13.881H51.418Z" transform="translate(126.84 725.84)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+        <path id="Path_69" d="M16.934,28.86a1.077,1.077,0,0,1-.765-.312l-9.9-9.9a8.08,8.08,0,0,1,10.664-12.1A8.1,8.1,0,0,1,27.6,7.219h0a8.1,8.1,0,0,1,0,11.429l-9.9,9.9A1.077,1.077,0,0,1,16.934,28.86ZM11.978,7.014a5.881,5.881,0,0,0-4.19,1.734,5.946,5.946,0,0,0,0,8.381l9.145,9.135,9.145-9.135a5.946,5.946,0,0,0,0-8.381h0a5.925,5.925,0,0,0-8.381,0,1.077,1.077,0,0,1-1.53,0,5.881,5.881,0,0,0-4.19-1.734Z" transform="translate(231.594 757)" fill="#fff" stroke="#fff" stroke-width="0.5" opacity="0.5"/>
+        <g id="Page-1" transform="translate(110 760)" opacity="0.5">
+            <g id="Artboard" transform="translate(1 1)">
+                <g id="grid">
+                    <path id="Rectangle-path" d="M0,0H9.333V9.333H0Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+                    <path id="Rectangle-path-2" d="M11,0h9.333V9.333H11Z" transform="translate(3.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+                    <path id="Rectangle-path-3" d="M11,11h9.333v9.333H11Z" transform="translate(3.667 3.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+                    <path id="Rectangle-path-4" d="M0,11H9.333v9.333H0Z" transform="translate(0 3.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

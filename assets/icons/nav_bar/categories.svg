@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+    <path id="Rectangle-path" d="M0,0H9.333V9.333H0Z" transform="translate(1 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    <path id="Rectangle-path-2" d="M11,0h9.333V9.333H11Z" transform="translate(4.667 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    <path id="Rectangle-path-3" d="M11,11h9.333v9.333H11Z" transform="translate(4.667 4.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    <path id="Rectangle-path-4" d="M0,11H9.333v9.333H0Z" transform="translate(1 4.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+</svg>
