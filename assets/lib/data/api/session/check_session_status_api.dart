@@ -15,9 +15,12 @@ class CheckSessionStatusApi{
   {
 
 
-    var response=await http.get(Uri.parse('${baseUrl}/api/user/restaurants/${idRestaurants}/sessions/checkStatus/${tableCode}'),
+    var response=await http.get(Uri.https('${baseUrl}','/api/user/restaurants/${idRestaurants}/sessions/checkStatus/${tableCode}'),
       headers: <String,String>
+
       {
+        'Accept-Language': 'en',
+        "Access-Control-Allow-Origin":'*',
         'Authorization':"Bearer $token",
         'Accept':"application/json",
       },
@@ -39,7 +42,7 @@ class CheckSessionStatusApi{
 
     else{
       tableCode='';
-      throw CustomError(errorMessage: response.body);
+      throw CustomError(errorMessage:errorModelFromJson(response.body).message,errorCode: response.statusCode);
     }
 
   }

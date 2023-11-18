@@ -55,8 +55,8 @@ const RESOURCES = {"assets/AssetManifest.json": "d31bcaf041db66c63847cdd8987d015
 "assets/assets/temp_images/temp_img.png": "238fc6ca85dd567b403c90607703e777",
 "assets/FontManifest.json": "59bb993f9b70a7e6977218d7a70a8373",
 "assets/fonts/MaterialIcons-Regular.otf": "7db21ac154c296926fcf64f52e517170",
-"assets/lib/data/api/session/check_session_status_api.dart": "d916da6d67600f8742bf5eea32057f5c",
-"assets/lib/data/api/session/join_session_api.dart": "67dfc5913742916d241b908a5ea8fb8c",
+"assets/lib/data/api/session/check_session_status_api.dart": "a4f9e907e7e00c000ffb6e5ca2f9d356",
+"assets/lib/data/api/session/join_session_api.dart": "89be9f3872bbc5f87b33a60aeb82e6a6",
 "assets/lib/view/auth/forgot_password/forgot_password_screens/email_forget_passowrd_screen.dart": "723db39fe6cf1bbbada41dd7cf1e56f3",
 "assets/lib/view/auth/forgot_password/forgot_password_screens/new_password_screen.dart": "1b51bd8fb3da9c2b0f34a6241a667b33",
 "assets/lib/view/auth/forgot_password/forgot_password_screens/validation_code_screen.dart": "f4368921085b2432579add0b0640e85f",
@@ -78,9 +78,9 @@ const RESOURCES = {"assets/AssetManifest.json": "d31bcaf041db66c63847cdd8987d015
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "197638a7c281f2771d1e178e936cfba0",
-"/": "197638a7c281f2771d1e178e936cfba0",
-"main.dart.js": "05e159aa10b1b80e35081af1520f5ed7",
+"index.html": "044f6c6a7adfea3265dc9edfbcbcf350",
+"/": "044f6c6a7adfea3265dc9edfbcbcf350",
+"main.dart.js": "caf76b7b3ec423a93812cb37393a700d",
 "manifest.json": "343cb8ff2aa997aec7db3b17fcbb2c35",
 "version.json": "b0738d2f68ed1a5e6d0e38587179cf2c"};
 // The application shell files that are downloaded before a service worker can
