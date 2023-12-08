@@ -1,6 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:go_router/go_router.dart';
+import 'package:ribu_app/src/routing/routes.dart';
 import 'package:ribu_app/view/auth/forgot_password/forgot_password_screens/validation_code_screen.dart';
 import 'package:ribu_app/view/auth/sign_up/sign_up_elements/email_field.dart';
 import 'package:ribu_app/view/auth/sign_up/sign_up_elements/password_field.dart';
@@ -32,7 +34,7 @@ class EmailForgetPassword extends StatelessWidget {
 
           child: GestureDetector(
             onTap: (){
-              Navigator.of(context).pop();
+            context.go(Routes.logIn);
             }
             ,
             child: Icon(Icons.arrow_back_ios,color: theme.primaryColor,),

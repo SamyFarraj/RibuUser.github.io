@@ -57,7 +57,7 @@ const RESOURCES = {"assets/AssetManifest.json": "d31bcaf041db66c63847cdd8987d015
 "assets/fonts/MaterialIcons-Regular.otf": "7db21ac154c296926fcf64f52e517170",
 "assets/lib/data/api/session/check_session_status_api.dart": "a4f9e907e7e00c000ffb6e5ca2f9d356",
 "assets/lib/data/api/session/join_session_api.dart": "89be9f3872bbc5f87b33a60aeb82e6a6",
-"assets/lib/view/auth/forgot_password/forgot_password_screens/email_forget_passowrd_screen.dart": "723db39fe6cf1bbbada41dd7cf1e56f3",
+"assets/lib/view/auth/forgot_password/forgot_password_screens/email_forget_passowrd_screen.dart": "6649a2e64b0228d935bfa5428b525a2c",
 "assets/lib/view/auth/forgot_password/forgot_password_screens/new_password_screen.dart": "1b51bd8fb3da9c2b0f34a6241a667b33",
 "assets/lib/view/auth/forgot_password/forgot_password_screens/validation_code_screen.dart": "f4368921085b2432579add0b0640e85f",
 "assets/NOTICES": "ace1c7bb48d6b813d912e5bf4e20325f",
@@ -78,11 +78,11 @@ const RESOURCES = {"assets/AssetManifest.json": "d31bcaf041db66c63847cdd8987d015
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "78a8d1ee8252db77bc0a8054ec1cb105",
-"/": "78a8d1ee8252db77bc0a8054ec1cb105",
-"main.dart.js": "e76fd4992915c8aa6a090b27bfadbdce",
+"index.html": "66f567c64c08cdb20eb6800763970e2e",
+"/": "66f567c64c08cdb20eb6800763970e2e",
+"main.dart.js": "ba4d042dac6b3a995eed96ecffd107f4",
 "manifest.json": "343cb8ff2aa997aec7db3b17fcbb2c35",
-"version.json": "b0738d2f68ed1a5e6d0e38587179cf2c"};
+"version.json": "dd0aac03a24a6d21d2fc0182030cc432"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
