@@ -3,11 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "d31bcaf041db66c63847cdd8987d0152",
-"assets/AssetManifest.smcbin": "3736306008cfdda2ec3babb2b0961181",
+const RESOURCES = {"assets/AssetManifest.json": "054b5ae868adc5bf46191b53ce85d70e",
+"assets/AssetManifest.smcbin": "84ff09c4c25838370608e0aa06e5cb35",
 "assets/assets/fonts/Poppins/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
 "assets/assets/fonts/Poppins/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
 "assets/assets/icons/apple_icon.svg": "920f999fe00326a0d2630e4cdc05539c",
+"assets/assets/icons/bot.png": "5bda4511b1487a9f4301f9d3ffec8bf8",
+"assets/assets/icons/bot.svg": "84f71cf1281a6f0b33ff4567bf3a38d7",
+"assets/assets/icons/bot2.svg": "728e86822276a6a3935d94b2bcc13ed3",
 "assets/assets/icons/date.svg": "53c7f60d1ab760cce28f775ae9efbbc1",
 "assets/assets/icons/date_icons.svg": "53c7f60d1ab760cce28f775ae9efbbc1",
 "assets/assets/icons/dele.svg": "f7c13cbccc4a0a354b7a6543fa3b3984",
@@ -78,11 +81,11 @@ const RESOURCES = {"assets/AssetManifest.json": "d31bcaf041db66c63847cdd8987d015
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8ef46581ec1fa733da812b792bdef94d",
-"/": "8ef46581ec1fa733da812b792bdef94d",
-"main.dart.js": "903461b0b1d45a11e568c146dfb85a29",
+"index.html": "dc579191352ed1776d14b2465634da99",
+"/": "dc579191352ed1776d14b2465634da99",
+"main.dart.js": "227f4a49bbff87ca84773b9ae9ae6431",
 "manifest.json": "343cb8ff2aa997aec7db3b17fcbb2c35",
-"version.json": "bde34e1e38b8eefbd78ebdfabe3bba56"};
+"version.json": "8349d658f1df63554d7461e497d507a2"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
